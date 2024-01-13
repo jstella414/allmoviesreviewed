@@ -9,6 +9,10 @@ p{
     color: white;
 }
 
+.nav-link{
+    color:rgb(26, 26, 26);
+}
+
 #trending-side-description{
     color: white;
     overflow: hidden;
@@ -59,7 +63,10 @@ font-size: 30px;
 }
 
 #movie-cards:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
+}
+.btn{
+    font-size:10px ;
 }
 .card-body{
   padding: 5px 20px 4px 0px;
@@ -85,9 +92,6 @@ font-size: 30px;
 }
 
 
-
-
-
-
-
-
+.hidden{
+    display:none;
+}
