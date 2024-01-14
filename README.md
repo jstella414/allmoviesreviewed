@@ -1,6 +1,6 @@
 # allmoviesreviewed
 
-# last project for js classes
+last project for js classes
 
 # Author
 
